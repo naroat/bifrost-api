@@ -1,0 +1,16 @@
+[bifrost/server]2022/07/01 - 15:12:28.838	[31merror[0m	/disk2/www/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection
+[bifrost/server]2022/07/01 - 15:15:06.072	[31merror[0m	/disk2/www/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection
+[bifrost/server]2022/07/01 - 15:16:07.723	[31merror[0m	/disk2/www/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection
+[bifrost/server]2022/07/01 - 15:21:09.756	[31merror[0m	/disk2/www/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection
+[bifrost/server]2022/07/01 - 15:25:11.996	[31merror[0m	/disk2/www/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection
+[bifrost/server]2022/07/01 - 15:31:37.859	[31merror[0m	/disk2/www/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection
+[bifrost/server]2022/07/01 - 15:34:29.085	[31merror[0m	/disk2/www/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection
+[bifrost/server]2022/07/01 - 15:40:28.986	[31merror[0m	/disk2/www/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection
+[bifrost/server]2022/07/01 - 15:41:59.611	[31merror[0m	/disk2/www/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection
+[bifrost/server]2022/07/01 - 16:57:13.346	[31merror[0m	/disk2/www/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection
+[bifrost/server]2022/07/01 - 16:59:05.226	[31merror[0m	/disk2/www/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection
+[bifrost/server]2022/07/01 - 17:29:13.604	[31merror[0m	/disk2/www/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection
+[bifrost/server]2022/07/01 - 17:34:59.046	[31merror[0m	/disk2/www/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection
+[bifrost/server]2022/07/01 - 18:55:47.851	[31merror[0m	/disk2/www/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection
+[bifrost/server]2022/07/01 - 19:10:04.353	[31merror[0m	/disk2/www/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection
+[bifrost/server]2022/07/01 - 19:10:23.843	[31merror[0m	/disk2/www/gin-vue-admin/server/core/server.go:48	accept tcp [::]:8888: use of closed network connection

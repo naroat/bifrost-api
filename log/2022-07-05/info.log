@@ -1,0 +1,24 @@
+[bifrost/server]2022/07/05 - 19:05:20.238	[34minfo[0m	/disk2/www/bifrost/server/initialize/gorm.go:61	register table success
+[bifrost/server]2022/07/05 - 19:05:20.252	[34minfo[0m	/disk2/www/bifrost/server/initialize/router.go:32	use middleware logger
+[bifrost/server]2022/07/05 - 19:05:20.252	[34minfo[0m	/disk2/www/bifrost/server/initialize/router.go:36	use middleware cors
+[bifrost/server]2022/07/05 - 19:05:20.253	[34minfo[0m	/disk2/www/bifrost/server/initialize/router.go:38	register swagger handler
+[bifrost/server]2022/07/05 - 19:05:20.283	[34minfo[0m	/disk2/www/bifrost/server/initialize/router.go:80	router register success
+[bifrost/server]2022/07/05 - 19:05:20.283	[34minfo[0m	/disk2/www/bifrost/server/core/server.go:36	server run success on 	{"address": ":8888"}
+[bifrost/server]2022/07/05 - 19:12:03.975	[34minfo[0m	/disk2/www/bifrost/server/initialize/gorm.go:61	register table success
+[bifrost/server]2022/07/05 - 19:12:03.986	[34minfo[0m	/disk2/www/bifrost/server/initialize/router.go:32	use middleware logger
+[bifrost/server]2022/07/05 - 19:12:03.986	[34minfo[0m	/disk2/www/bifrost/server/initialize/router.go:36	use middleware cors
+[bifrost/server]2022/07/05 - 19:12:03.986	[34minfo[0m	/disk2/www/bifrost/server/initialize/router.go:38	register swagger handler
+[bifrost/server]2022/07/05 - 19:12:03.998	[34minfo[0m	/disk2/www/bifrost/server/initialize/router.go:80	router register success
+[bifrost/server]2022/07/05 - 19:12:03.998	[34minfo[0m	/disk2/www/bifrost/server/core/server.go:36	server run success on 	{"address": ":8888"}
+[bifrost/server]2022/07/05 - 19:13:42.839	[34minfo[0m	/disk2/www/bifrost/server/initialize/gorm.go:61	register table success
+[bifrost/server]2022/07/05 - 19:13:42.853	[34minfo[0m	/disk2/www/bifrost/server/initialize/router.go:32	use middleware logger
+[bifrost/server]2022/07/05 - 19:13:42.853	[34minfo[0m	/disk2/www/bifrost/server/initialize/router.go:36	use middleware cors
+[bifrost/server]2022/07/05 - 19:13:42.854	[34minfo[0m	/disk2/www/bifrost/server/initialize/router.go:38	register swagger handler
+[bifrost/server]2022/07/05 - 19:13:42.861	[34minfo[0m	/disk2/www/bifrost/server/initialize/router.go:80	router register success
+[bifrost/server]2022/07/05 - 19:13:42.862	[34minfo[0m	/disk2/www/bifrost/server/core/server.go:36	server run success on 	{"address": ":8888"}
+[bifrost/server]2022/07/05 - 19:19:44.480	[34minfo[0m	/disk2/www/bifrost/server/initialize/gorm.go:61	register table success
+[bifrost/server]2022/07/05 - 19:19:44.497	[34minfo[0m	/disk2/www/bifrost/server/initialize/router.go:32	use middleware logger
+[bifrost/server]2022/07/05 - 19:19:44.497	[34minfo[0m	/disk2/www/bifrost/server/initialize/router.go:36	use middleware cors
+[bifrost/server]2022/07/05 - 19:19:44.497	[34minfo[0m	/disk2/www/bifrost/server/initialize/router.go:38	register swagger handler
+[bifrost/server]2022/07/05 - 19:19:44.504	[34minfo[0m	/disk2/www/bifrost/server/initialize/router.go:80	router register success
+[bifrost/server]2022/07/05 - 19:19:44.504	[34minfo[0m	/disk2/www/bifrost/server/core/server.go:36	server run success on 	{"address": ":8888"}

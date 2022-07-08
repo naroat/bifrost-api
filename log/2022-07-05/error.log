@@ -1,0 +1,2 @@
+[bifrost/server]2022/07/05 - 19:06:06.294	[31merror[0m	/disk2/www/bifrost/server/core/server.go:52	accept tcp [::]:8888: use of closed network connection
+[bifrost/server]2022/07/05 - 19:19:34.411	[31merror[0m	/disk2/www/bifrost/server/core/server.go:52	accept tcp [::]:8888: use of closed network connection

@@ -1,0 +1,54 @@
+[bifrost/server]2022/07/02 - 14:36:47.261	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/gorm.go:61	register table success
+[bifrost/server]2022/07/02 - 14:36:47.274	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/router.go:32	use middleware logger
+[bifrost/server]2022/07/02 - 14:36:47.275	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/router.go:36	use middleware cors
+[bifrost/server]2022/07/02 - 14:36:47.275	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/router.go:38	register swagger handler
+[bifrost/server]2022/07/02 - 14:36:47.291	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/router.go:80	router register success
+[bifrost/server]2022/07/02 - 14:36:47.293	[34minfo[0m	/disk2/www/gin-vue-admin/server/core/server.go:36	server run success on 	{"address": ":8888"}
+[bifrost/server]2022/07/02 - 14:38:14.154	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/gorm.go:61	register table success
+[bifrost/server]2022/07/02 - 14:38:14.168	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/router.go:32	use middleware logger
+[bifrost/server]2022/07/02 - 14:38:14.168	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/router.go:36	use middleware cors
+[bifrost/server]2022/07/02 - 14:38:14.168	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/router.go:38	register swagger handler
+[bifrost/server]2022/07/02 - 14:38:14.239	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/router.go:80	router register success
+[bifrost/server]2022/07/02 - 14:38:14.239	[34minfo[0m	/disk2/www/gin-vue-admin/server/core/server.go:36	server run success on 	{"address": ":8888"}
+[bifrost/server]2022/07/02 - 14:38:33.097	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/gorm.go:61	register table success
+[bifrost/server]2022/07/02 - 14:38:33.112	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/router.go:32	use middleware logger
+[bifrost/server]2022/07/02 - 14:38:33.112	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/router.go:36	use middleware cors
+[bifrost/server]2022/07/02 - 14:38:33.112	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/router.go:38	register swagger handler
+[bifrost/server]2022/07/02 - 14:38:33.119	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/router.go:80	router register success
+[bifrost/server]2022/07/02 - 14:38:33.122	[34minfo[0m	/disk2/www/gin-vue-admin/server/core/server.go:36	server run success on 	{"address": ":8888"}
+[bifrost/server]2022/07/02 - 14:38:58.852	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/gorm.go:61	register table success
+[bifrost/server]2022/07/02 - 14:38:58.863	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/router.go:32	use middleware logger
+[bifrost/server]2022/07/02 - 14:38:58.863	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/router.go:36	use middleware cors
+[bifrost/server]2022/07/02 - 14:38:58.864	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/router.go:38	register swagger handler
+[bifrost/server]2022/07/02 - 14:38:58.879	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/router.go:80	router register success
+[bifrost/server]2022/07/02 - 14:38:58.879	[34minfo[0m	/disk2/www/gin-vue-admin/server/core/server.go:36	server run success on 	{"address": ":8888"}
+[bifrost/server]2022/07/02 - 14:39:11.622	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/gorm.go:61	register table success
+[bifrost/server]2022/07/02 - 14:39:11.661	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/router.go:32	use middleware logger
+[bifrost/server]2022/07/02 - 14:39:11.661	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/router.go:36	use middleware cors
+[bifrost/server]2022/07/02 - 14:39:11.661	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/router.go:38	register swagger handler
+[bifrost/server]2022/07/02 - 14:39:11.672	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/router.go:80	router register success
+[bifrost/server]2022/07/02 - 14:39:11.672	[34minfo[0m	/disk2/www/gin-vue-admin/server/core/server.go:36	server run success on 	{"address": ":8888"}
+[bifrost/server]2022/07/02 - 14:39:37.881	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/gorm.go:61	register table success
+[bifrost/server]2022/07/02 - 14:39:37.893	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/router.go:32	use middleware logger
+[bifrost/server]2022/07/02 - 14:39:37.893	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/router.go:36	use middleware cors
+[bifrost/server]2022/07/02 - 14:39:37.894	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/router.go:38	register swagger handler
+[bifrost/server]2022/07/02 - 14:39:37.902	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/router.go:80	router register success
+[bifrost/server]2022/07/02 - 14:39:37.902	[34minfo[0m	/disk2/www/gin-vue-admin/server/core/server.go:36	server run success on 	{"address": ":8888"}
+[bifrost/server]2022/07/02 - 16:15:35.526	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/gorm.go:61	register table success
+[bifrost/server]2022/07/02 - 16:15:35.540	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/router.go:32	use middleware logger
+[bifrost/server]2022/07/02 - 16:15:35.540	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/router.go:36	use middleware cors
+[bifrost/server]2022/07/02 - 16:15:35.541	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/router.go:38	register swagger handler
+[bifrost/server]2022/07/02 - 16:15:35.551	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/router.go:80	router register success
+[bifrost/server]2022/07/02 - 16:15:35.552	[34minfo[0m	/disk2/www/gin-vue-admin/server/core/server.go:36	server run success on 	{"address": ":8888"}
+[bifrost/server]2022/07/02 - 16:38:43.357	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/gorm.go:61	register table success
+[bifrost/server]2022/07/02 - 16:38:43.373	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/router.go:32	use middleware logger
+[bifrost/server]2022/07/02 - 16:38:43.374	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/router.go:36	use middleware cors
+[bifrost/server]2022/07/02 - 16:38:43.374	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/router.go:38	register swagger handler
+[bifrost/server]2022/07/02 - 16:38:43.380	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/router.go:80	router register success
+[bifrost/server]2022/07/02 - 16:38:43.380	[34minfo[0m	/disk2/www/gin-vue-admin/server/core/server.go:36	server run success on 	{"address": ":8888"}
+[bifrost/server]2022/07/02 - 18:10:37.110	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/gorm.go:61	register table success
+[bifrost/server]2022/07/02 - 18:10:37.202	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/router.go:32	use middleware logger
+[bifrost/server]2022/07/02 - 18:10:37.214	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/router.go:36	use middleware cors
+[bifrost/server]2022/07/02 - 18:10:37.242	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/router.go:38	register swagger handler
+[bifrost/server]2022/07/02 - 18:10:37.247	[34minfo[0m	/disk2/www/gin-vue-admin/server/initialize/router.go:80	router register success
+[bifrost/server]2022/07/02 - 18:10:37.247	[34minfo[0m	/disk2/www/gin-vue-admin/server/core/server.go:36	server run success on 	{"address": ":8888"}
